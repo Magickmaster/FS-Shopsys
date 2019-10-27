@@ -1,0 +1,14 @@
+GPIO 14; FSRABATT;
+GPIO 13; Bier; 1.00; 1.00;
+GPIO 12; Mate 0,5; 1.00; 0.70;
+GPIO 3; Mate Cola, Coca Cola, Fanta; 0.80; 0.60;
+GPIO 2; Spezi, Apfelsaftschorle; 0.60; 0.50;
+GPIO 0; Mineralwasser 0.7l; 0.50; 0.40;
+GPIO 7; Mineralwasser 0.5l; 0.40; 0.30;
+
+GPIO 10; CANCEL;
+GPIO 5; Duplo; 0.20; 0.20;
+GPIO 4; Diverse Snacks; 0.30; 0.30;
+GPIO 1; Salzstangen; 0.40; 0.40;
+GPIO 16; Salzbrezeln; 0.60; 0.60;
+GPIO 15; SUBMIT;
