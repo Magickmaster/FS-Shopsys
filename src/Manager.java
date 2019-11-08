@@ -27,6 +27,7 @@ public class Manager {
 		throw new UnsupportedOperationException("Static utility class");
 	}
 
+	
 	static {
 		try {
 			// create gpio controller
