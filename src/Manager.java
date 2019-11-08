@@ -38,6 +38,7 @@ public class Manager {
 		feedback = new Feedback();
 		// feedback.output.blink(50L);
 
+		
 		Logger.log("Setup finished", Logger.Type.INFO);
 	}
 
